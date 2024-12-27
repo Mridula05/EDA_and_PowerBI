@@ -1,8 +1,12 @@
-Hotel Booking EDA and Dashboard
-Project Overview
-This project provides a comprehensive Exploratory Data Analysis (EDA) and interactive Dashboard for hotel booking data using Power BI and PostgreSQL. The goal of this project is to analyze the performance of hotel bookings, customer preferences, booking patterns, and trends, and present the insights visually through an interactive dashboard.
-Problem Statement
-Objective: To help hotels analyze their booking data to make informed decisions, improve customer experience, and optimize operations. 
+# Hotel Booking EDA and Dashboard
+
+## Project Overview
+This project performs exploratory data analysis (EDA) on hotel booking data to uncover trends and insights. It includes an interactive **Power BI dashboard** for visualizing booking patterns, customer preferences, and hotel performance.
+
+## Technologies Used
+- **Power BI**: For creating interactive dashboards
+- **PostgreSQL**: For storing and querying the booking data
+- **Python (Optional)**: For additional preprocessing
 Key Questions Addressed:
 
 Find the total number of reservations that were canceled
